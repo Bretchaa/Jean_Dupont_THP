@@ -1,4 +1,4 @@
-puts "Quelle âge as tu?"
+puts "Quelle âge as-tu?"
 print ">"
 age=gets.chomp.to_i
 birth_year=2022-age
